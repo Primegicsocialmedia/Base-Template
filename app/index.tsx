@@ -5,7 +5,7 @@ export default function Index() {
     <View
      className="flex-1 items-center justify-center"
     >
-      <Text className="text-2xl font bold "> Welcome to Prime </Text>
+      <Text className="text-2xl font bold "> Welcome to Prime. </Text>
     </View>
   );
 }
